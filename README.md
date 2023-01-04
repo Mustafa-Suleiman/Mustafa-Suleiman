@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 
 ## 🔥 Tech Stack
 
+<div align="center">
+  
 ### Frontend Technologies
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -69,12 +71,14 @@ Here are some ideas to get you started:
 ### 🧑🏻‍💻 Tools & Platform
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  
+  </div>
 
 <br />
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustafa-suleiman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br />
@@ -84,9 +88,11 @@ Here are some ideas to get you started:
 <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=mustafa-suleiman&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-</p>
+</div>
 
 ## ⭐ Thanks for the visit!
+
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mustafa-suleiman&theme=radical)](https://github.com/mustafa-suleiman)
 <br />
@@ -97,5 +103,9 @@ Here are some ideas to get you started:
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 <br />
 <br /> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
-
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry)
+<br />
+<br /> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A5F8F2&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Nothing+in+this+world+can+take+the+place+of+persistence.+;the+world+is+full+of+educated+derelicts.)](https://git.io/typing-svg)
+  
+</div>
