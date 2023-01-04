@@ -84,10 +84,7 @@ Here are some ideas to get you started:
 <br />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-suleiman&theme=radical&show_icons=true&hide_border=true)
 <br />
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-suleiman&theme=radical&hide_border=true&layout=compact)](https://github.com/Ayush-Kanduri/github-readme-stats)
-<br />
-<img src="https://activity-graph.herokuapp.com/graph?username=mustafa-suleiman&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
+[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-suleiman&theme=radical&hide_border=true)](https://github.com/Ayush-Kanduri/github-readme-stats)
 </div>
 
 ## ⭐ Thanks for the visit!
