@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hey!! Great to see you here!&ensp;<img src="./wave.gif" width="37px" height="37px" />
 
-![banner (1)](https://user-images.githubusercontent.com/76626529/185743060-d78e7a84-2079-4e45-a634-a0215431e921.png)
+![banner (1)](https://user-images.githubusercontent.com/109823798/210870283-9590e282-ccdb-4780-a9e7-349f105bcc73.gif)
 <br />
 <br />
 
