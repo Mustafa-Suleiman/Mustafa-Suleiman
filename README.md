@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mustafa.mohammad.dk@gmail.com)
 <!-- [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/Mustafa-Suleiman/) -->
 
-<!--<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](http://ayushkanduri.dev)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](http://ayushkanduri.dev/resume) </span>-->
+<!--<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](...)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](http://ayushkanduri.dev/resume) </span>-->
 
 <br />
 
@@ -82,9 +82,9 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustafa-suleiman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br />
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-suleiman&theme=radical&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats-mustafa-suleiman.vercel.app/api?username=mustafa-suleiman&theme=radical&show_icons=true&hide_border=true)
 <br />
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-suleiman&theme=radical&hide_border=true)](https://github.com/Ayush-Kanduri/github-readme-stats)
+[![GitHub Langs](https://github-readme-stats-mustafa-suleiman.vercel.app/api/top-langs/?username=mustafa-suleiman&theme=radical&hide_border=true)](https://github.com/Ayush-Kanduri/github-readme-stats)
 </div>
 
 ## ⭐ Thanks for the visit!
