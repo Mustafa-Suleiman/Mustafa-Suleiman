@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### <div align="center">Hi, I'm Mustafa! I have a background in technical writing, but programming has always been my passion. I've spent the last year learning the full-stack roadmap and building various projects to hone my skills. I'm always looking for new challenges and opportunities to grow as a programmer.</div>  
+### <div align="center">Hi, I'm Mustafa! I have a background in technical writing, but programming has always been my passion. I've spent 2022 learning the full-stack roadmap and building various projects to hone my skills. I'm always looking for new challenges and opportunities to grow as a programmer.</div>  
 <br />
 <br />
 
-<a href="https://app.daily.dev/Mustafa-Suleiman"><img src="https://api.daily.dev/devcards/96b25b1be45449c0852c9b724ed8914d.png?r=1us" width="400" alt="Mustafa Suleiman's Dev Card" align="right"/></a>
+<!--<a href="https://app.daily.dev/Mustafa-Suleiman"><img src="https://api.daily.dev/devcards/96b25b1be45449c0852c9b724ed8914d.png?r=1us" width="400" alt="Mustafa Suleiman's Dev Card" align="right"/></a>-->
 
-- 💻 Previously i was a full-time technical writer with 4 years of experience in the field
-- 🚀 Currently, I am seeking a job as a MERN stack web developer and am working on Jobmont, a job application tracker.
+- 💻 Previously i was a full-time technical writer with 5 years of experience in the field
+- 🚀 Currently, Working on MERN stack projects.
 - 🌱 I am actively learning MERN stack and building projects in the public domain.
-- 👯 I am always open to collaborating with others and bringing new ideas to life.
-- ❓  If you have any questions about MERN stack or related technologies, don't hesitate to reach out.
+- 👯 I am always open to collaborating and bringing new ideas to life.
+- ❓  If you have any questions about the MERN stack or related technologies, don't hesitate to reach out.
 - ⚡ Fun fact: As a technical writer, I developed strong knowledge and communication skills that have been invaluable in my programming journey. Maintaining my own WordPress site also sparked my passion for coding and web development
 <br />
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mustafa.mohammad.dk@gmail.com)
 <!-- [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/Mustafa-Suleiman/) -->
 
-<!--<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](...)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](http://ayushkanduri.dev/resume) </span>-->
+<!--<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](...)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](http:/) </span>-->
 
 <br />
 
@@ -78,12 +78,12 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!--<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustafa-suleiman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br />
 ![GitHub Stats](https://github-readme-stats-mustafa-suleiman.vercel.app/api?username=mustafa-suleiman&theme=radical&show_icons=true&hide_border=true)
-<br />
+<br />-->
 [![GitHub Langs](https://github-readme-stats-mustafa-suleiman.vercel.app/api/top-langs/?username=mustafa-suleiman&theme=radical&hide_border=true)](https://github.com/Ayush-Kanduri/github-readme-stats)
 </div>
 
@@ -91,13 +91,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mustafa-suleiman&theme=radical)](https://github.com/mustafa-suleiman)
-<br />
 <br />
 [![Visitor Count](https://visitcount.itsvg.in/api?id=mustafa-suleiman&icon=0&color=0)](https://visitcount.itsvg.in)
-<br />
-<br />
-![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 <br />
 <br /> 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry)
