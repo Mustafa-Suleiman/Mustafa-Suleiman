@@ -78,9 +78,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-<!--<div align="center">
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustafa-suleiman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustafa-suleiman&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br />
 ![GitHub Stats](https://github-readme-stats-mustafa-suleiman.vercel.app/api?username=mustafa-suleiman&theme=radical&show_icons=true&hide_border=true)
 <br />-->
@@ -90,14 +90,7 @@ Here are some ideas to get you started:
 ## ⭐ Thanks for the visit!
 
 <div align="center">
-
 <br />
-[![Visitor Count](https://visitcount.itsvg.in/api?id=mustafa-suleiman&icon=0&color=0)](https://visitcount.itsvg.in)
-<br />
-<br /> 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=blueberry)
-<br />
-<br /> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A5F8F2&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Nothing+in+this+world+can+take+the+place+of+persistence.+;the+world+is+full+of+educated+derelicts.)](https://git.io/typing-svg)
   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=A5F8F2&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Nothing+in+this+world+can+take+the+place+of+persistence.+;the+world+is+full+of+educated+derelicts.)](https://git.io/typing-svg)
 </div>
